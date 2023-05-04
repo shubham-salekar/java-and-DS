@@ -16,7 +16,7 @@ class IODemo{
 		
 		System.out.println("Enter char");
 
-	//	br.Reset();
+	//
 		int name2 = br.read();
 		isr.skip(1);
 
